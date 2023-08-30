@@ -1,4 +1,4 @@
-# Topicos-de-Programa-o
+# Topicos Essenciais Para Programação
 
 Repositório para a turma B de sistemas para internet e informação
 
